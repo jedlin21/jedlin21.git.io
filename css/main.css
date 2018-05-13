@@ -33,8 +33,8 @@
     margin: 0;
 }
 
-#headerLogo {
-  width: 90%;
+.headerLogo {
+  width: 70%;
 }
 
 .container-fluid {
@@ -88,7 +88,7 @@
   width: 100%;
 }
 
-#logo4444 {
+.logo4444 {
   width: 40%;
   display: block;
   margin: auto;
@@ -103,5 +103,9 @@
 
     .jumbotron{
       margin-top: 20px;
+    }
+
+    .headerLogo {
+      width: 90%;
     }
 }
